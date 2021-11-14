@@ -1,5 +1,5 @@
 # Olá Bem vindo! 👋
-<div align="center">
+<div aling="center">
   <a href="https://github.com/NyndoND">
   <img src="https://github-readme-stats.vercel.app/api?username=NyndoND&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyndoND&layout=compact&theme=dracula"/>
