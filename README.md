@@ -1,7 +1,7 @@
 # Olá Bem vindo! 👋
 <div align="center" style="display: inline_block">
   <a href="https://github.com/NyndoND">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NyndoND&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NyndoND&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyndoND&layout=compact&theme=dracula"/>
 </div>
   
